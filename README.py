@@ -22,4 +22,4 @@ while run == True:
     else:
         print("Неизвестная команда ")
 
-#аывафывафвыпывап
+#аывафывафвыпывапddfgdfgdfgsdfgsgsgsdfgsgfsfdgsfg
